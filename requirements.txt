@@ -1,0 +1,4 @@
+# Python 3.12 - stesse versioni dei laboratori di Tecniche di Programmazione
+flet==0.22.1
+mysql-connector-python==8.3.0
+networkx==3.2.1

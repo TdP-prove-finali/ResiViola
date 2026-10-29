@@ -1,0 +1,7 @@
+# Copia questo file come connector.cnf e inserisci le tue credenziali.
+[client]
+user=root
+password=
+host=127.0.0.1
+port=3306
+database=comodato_libri

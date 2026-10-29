@@ -1,0 +1,13 @@
+# credenziali
+database/connector.cnf
+.env
+
+# PyCharm / Python
+.idea/
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# CSV grezzi nazionali/regionali (troppo pesanti): nel repo va solo il dataset filtrato in data/
+data/raw/
